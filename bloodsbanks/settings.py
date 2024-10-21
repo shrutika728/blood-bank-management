@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'search.apps.SearchConfig',
     'dreg',
     'dabout',
-    'contact',
+    'contact'
 ]
 
 MIDDLEWARE = [
