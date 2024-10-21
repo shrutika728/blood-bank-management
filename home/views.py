@@ -18,6 +18,6 @@ def homedisplay(request):
         'user_opinion' : user_opinion,
     }
 
-    return render(request, 'donor_home.html', context)
+    return render(request, 'home.html', context)
 
 
